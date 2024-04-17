@@ -1,0 +1,21 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+table {
+  margin: 0 auto;
+  width: 80%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #eee;
+}
